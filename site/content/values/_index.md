@@ -3,14 +3,14 @@ title: Values
 image: /img/about-jumbotron.jpg
 values:
   - heading: Shade-grown coffee
-    imageUrl: /img/about-shade-grown.jpg
+    imageUrl: ''
     text: >
       Coffee is a small tree or shrub that grows in the forest understory in its
       wild form, and traditionally was grown commercially under other trees that
       provided shade. The forest-like structure of shade coffee farms provides
       habitat for a great number of migratory and resident species.
   - heading: Single origin
-    imageUrl: /img/about-single-origin.jpg
+    imageUrl: ''
     text: >
       Single-origin coffee is coffee grown within a single known geographic
       origin. Sometimes, this is a single farm or a specific collection of beans
