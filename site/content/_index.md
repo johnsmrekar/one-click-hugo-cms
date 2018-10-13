@@ -1,7 +1,7 @@
 ---
 title: John Smrekar
 subtitle: Product Management Leader
-image: /img/home-jumbotron.jpg
+image: /img/faith-road.jpg
 blurb:
   heading: John Smrekar
   text: asdf
