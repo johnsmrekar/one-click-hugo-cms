@@ -1,6 +1,6 @@
 ---
-title: Great coffee with a conscience
-subtitle: Support sustainable farming while enjoying a cup
+title: John Smrekar
+subtitle: Product Management Leader
 image: /img/home-jumbotron.jpg
 blurb:
   heading: John Smrekar
