@@ -9,9 +9,9 @@ intro:
   heading: What we offer
   text: asdf
 products:
-  - image: img/illustrations-coffee.svg
+  - image: ''
     text: asdf
-  - image: /img/illustrations-coffee-gear.svg
+  - image: ''
     text: asdf
 values:
   heading: Our values
