@@ -13,8 +13,5 @@ products:
     text: asdf
   - image: ''
     text: asdf
-values:
-  heading: Our values
-  text: asdf
 ---
 
