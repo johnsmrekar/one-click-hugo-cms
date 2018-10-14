@@ -5,8 +5,8 @@ image: /img/faith-road.jpg
 blurb:
   heading: About
   text: >-
-    Product Management Leader with 10+ years of success leading high-performing
-    teams and building winning products. Excellent business sense, user
-    experience design, customer focus, and team leadership.
+    An experienced Product Management Leader with 10+ years of success leading
+    high-performing teams and building winning products. Brings an excellent
+    business sense, user experience design, customer focus, and team leadership.
 ---
 
