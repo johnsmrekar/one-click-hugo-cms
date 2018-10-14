@@ -17,4 +17,3 @@ products:
   - image: ''
     text: asdf
 ---
-
