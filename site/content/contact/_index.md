@@ -5,6 +5,5 @@ contact_entries:
   - heading: Location
     text: 'Bend, Oregon'
 ---
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+I’d love to get in touch with you and hear your ideas and
+questions.
